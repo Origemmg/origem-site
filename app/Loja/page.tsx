@@ -1,4 +1,4 @@
-export default function Loja() {
+export default function loja() {
   return (
     <div className="min-h-screen bg-[#f5f1ea] p-10">
 
