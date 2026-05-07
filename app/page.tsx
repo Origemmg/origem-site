@@ -23,17 +23,17 @@ export default function Home() {
 
             <div className="flex items-center gap-3">
               <div className="w-2 h-2 rounded-full bg-[#e7cba9]" />
-              Receitas artesanais exclusivas
+              Receitas naturais exclusivas
             </div>
 
             <div className="flex items-center gap-3">
               <div className="w-2 h-2 rounded-full bg-[#e7cba9]" />
-              Rituais naturais e energéticos
+              Rituais de autocuidado e energéticos
             </div>
 
             <div className="flex items-center gap-3">
               <div className="w-2 h-2 rounded-full bg-[#e7cba9]" />
-              Materiais e dicas para vender online
+              Informações sobre os nossos produtos e cursos
             </div>
 
           </div>
