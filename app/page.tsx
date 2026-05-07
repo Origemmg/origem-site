@@ -100,7 +100,14 @@ export default function Home() {
               </button>
 
             </form>
-
+            <a
+              href="https://wa.me/5531997344903?text=Olá%20Origem,%20quero%20saber%20mais%20sobre%20os%20produtos."
+              target="_blank"
+              className="w-full block text-center mt-4 bg-[#25D366] hover:bg-[#1ebe5d] transition-all text-white font-semibold rounded-2xl p-4 shadow-lg"
+            >
+              Falar no WhatsApp
+            </a>
+            
             <p className="text-xs text-[#8b8b8b] mt-6 leading-relaxed text-center">
               Seus dados estão protegidos. Você poderá sair da lista quando quiser.
             </p>
