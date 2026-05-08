@@ -19,14 +19,14 @@ export default function Home() {
           </h1>
 
           <p className="text-xl leading-relaxed text-[#5d6659] mb-10">
-            Cosméticos naturais, velas artesanais, espiritualidade,
+            Cosméticos vegetais, velas artesanais, espiritualidade,
             autocuidado e conhecimento para transformar sua rotina.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">
 
             <a
-              href="https://wa.me/5531999999999?text=Olá%20Origem,%20quero%20saber%20mais."
+              href="https://wa.me/5531997344903?text=Olá%20Origem,%20quero%20saber%20mais."
               target="_blank"
               className="bg-[#556b52] hover:bg-[#475a45] text-white px-8 py-4 rounded-2xl font-semibold text-center transition-all shadow-xl"
             >
@@ -108,7 +108,7 @@ export default function Home() {
         </h2>
 
         <p className="text-center text-[#707070] mb-14 text-lg">
-          Aprenda práticas naturais e artesanais do zero.
+          Aprenda práticas ancestrais e artesanais do zero.
         </p>
 
         <div className="grid md:grid-cols-3 gap-8">
@@ -128,7 +128,7 @@ export default function Home() {
               </h3>
 
               <p className="text-[#707070] mb-6">
-                Aprenda a criar produtos naturais artesanais.
+                Aprenda a criar cosméticos vegetais artesanais.
               </p>
 
               <button className="w-full bg-[#556b52] text-white p-4 rounded-2xl font-semibold">
@@ -154,7 +154,7 @@ export default function Home() {
               </h3>
 
               <p className="text-[#707070] mb-6">
-                Aprenda velas vegetais aromáticas premium.
+                Aprenda a fazer velas vegetais aromáticas.
               </p>
 
               <button className="w-full bg-[#556b52] text-white p-4 rounded-2xl font-semibold">
@@ -180,7 +180,7 @@ export default function Home() {
               </h3>
 
               <p className="text-[#707070] mb-6">
-                Rituais, espiritualidade e autocuidado.
+                Rituais de autocuidado, espiritualidade e sagrado feminino.
               </p>
 
               <button className="w-full bg-[#556b52] text-white p-4 rounded-2xl font-semibold">
@@ -218,7 +218,7 @@ export default function Home() {
               </h3>
 
               <p className="text-[#707070] mb-8">
-                Receitas naturais e formulações artesanais.
+                Receitas e formulações fitoterápicas artesanais.
               </p>
 
               <button className="w-full bg-[#556b52] text-white p-4 rounded-2xl font-semibold">
@@ -230,7 +230,7 @@ export default function Home() {
             <div className="border border-[#ece7dc] rounded-3xl p-8">
 
               <h3 className="text-2xl font-bold mb-4">
-                Rituais Naturais
+                Rituais de autocuidado
               </h3>
 
               <p className="text-[#707070] mb-8">
