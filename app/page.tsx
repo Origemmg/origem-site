@@ -8,9 +8,11 @@ export default function Home() {
 
         <div>
 
-          <span className="uppercase tracking-[0.3em] text-sm text-[#556b52]">
-            Origem
-          </span>
+          <img
+            src="/logo.png"
+            alt="Origem"
+            className="w-40 mb-6"
+          />
 
           <h1 className="text-5xl md:text-7xl font-bold leading-tight mt-6 mb-8">
             Desperte sua
