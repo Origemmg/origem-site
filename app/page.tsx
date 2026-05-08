@@ -118,7 +118,7 @@ export default function Home() {
           <div className="bg-white rounded-3xl shadow-xl overflow-hidden">
 
             <img
-              src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop"
+              src="https://images.unsplash.com/photo-1624454002302-36b824d7bd0a?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Curso"
               className="h-64 w-full object-cover"
             />
@@ -170,7 +170,7 @@ export default function Home() {
           <div className="bg-white rounded-3xl shadow-xl overflow-hidden">
 
             <img
-              src="https://images.unsplash.com/photo-1515377905703-c4788e51af15?q=80&w=1200&auto=format&fit=crop"
+              src="https://images.unsplash.com/photo-1492552181161-62217fc3076d?q=80&w=897&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Curso"
               className="h-64 w-full object-cover"
             />
