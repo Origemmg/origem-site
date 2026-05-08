@@ -8,11 +8,11 @@ export default function Home() {
 
         <div>
 
-          <img
-            src="/logo.png"
-            alt="Origem"
-            className="w-40 mb-6"
-          />
+            <img
+              src="/logo.png"
+              alt="Origem"
+              className="w-40 mb-6"
+            />
 
           <h1 className="text-5xl md:text-7xl font-bold leading-tight mt-6 mb-8">
             Desperte sua
